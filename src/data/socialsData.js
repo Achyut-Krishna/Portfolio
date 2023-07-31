@@ -1,8 +1,8 @@
 export const socialsData = {
-    github: 'https://github.com/',
+    github: 'https://github.com/Achyut-Krishna',
     facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in',
-    instagram: 'https://www.instagram.com/',
+    linkedIn: 'https://www.linkedin.com/in/achyutkrishna',
+    instagram: 'https://www.instagram.com/Krishna_Achyut',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
     reddit: 'https://www.reddit.com/user/',
